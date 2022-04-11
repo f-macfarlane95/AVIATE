@@ -7,3 +7,4 @@ Data/AVIATE 15July21 50ft half image size_index_ndvi_narrowband.prj
 **/*.shp
 **/*.shx
 **-checkpoint**
+**/*.bak
